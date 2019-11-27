@@ -1,0 +1,20 @@
+@import url("https://use.fontawesome.com/releases/v5.5.0/css/all.css");
+// Variables
+@import "variables";
+// Fonts
+@import "~font-awesome/scss/font-awesome";
+// Fonts
+@import "~slick-carousel/slick/slick";
+
+//Bulma
+// @import "~bulma/bulma";
+
+//bulma vue js
+// @import "~buefy/src/scss/buefy";
+
+@import 'helpers';
+@import 'manage';
+@import 'overrides';
+@import 'styles';
+
+
